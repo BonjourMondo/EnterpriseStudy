@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/web/Pictures" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/Pictures/1.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/Pictures/2.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/Pictures/3.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/Pictures/4.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/Pictures/5.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/Pictures/6.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/Pictures/7.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/Pictures/a1.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/Pictures/a2.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/Pictures/a3.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/Pictures/a4.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/Pictures/a5.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/Pictures/a6.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/Pictures/hongruan.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/assets" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/css/bootstrap.min.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/css/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/flags" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/fonts" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/media" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/media-g" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

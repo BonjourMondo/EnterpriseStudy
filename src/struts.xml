@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+        "http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+
+    <package name="helloworld" extends="struts-default">
+        <action name="product-save" class="com.saber.action.Comment" method="execute">
+            <result name="success">cooment.jsp</result>
+        </action>
+        <action name="TestasAware" class="com.saber.dao.CommentInfoManager" method="allComment">
+            <result name="success">cooment.jsp</result>
+        </action>
+        <action name="GMAware" class="com.saber.dao.CommentInfoManager" method="someComment">
+            <result name="success">GM.jsp</result>
+        </action>
+        <action name="pageList" class="com.saber.action.CourseListAction" method="queryList">
+            <result name="userList" type="dispatcher">grid_page.jsp</result>
+        </action>
+        <action name="pageSearch" class="com.saber.action.CourseListAction" method="querySearch">
+            <result name="userSearch" type="dispatcher">search_page.jsp</result>
+        </action>
+        <action name="learningTest" class="com.saber.action.CourseAction" method="queryCourse">
+            <result name="video" type="dispatcher">video.com.jsp</result>
+            <result name="ppt" type="dispatcher">ppt.com.jsp</result>
+            <result name="music" type="dispatcher">music.com.jsp</result>
+        </action>
+
+    </package>
+
+</struts>
